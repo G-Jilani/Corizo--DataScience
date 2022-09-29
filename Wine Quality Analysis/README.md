@@ -1,8 +1,8 @@
 # Major Project 2
-# Wine Quality Analysis Instructions
+# Wine Quality Analysis 
 
 *Instructions* 
-These datasets can be viewed as classi<cation or regression tasks. The classes are ordered and not balanced (e.g. there are munch more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.
+Instructions These datasets can be viewed as classi<cation or regression tasks. The classes are ordered and not balanced (e.g. there are munch more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.
 Two datasets were combined and few values were randomly removed. Attribute Information:
 Input variables (based on physicochemical tests):
 
