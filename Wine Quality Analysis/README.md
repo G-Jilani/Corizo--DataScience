@@ -29,4 +29,6 @@ Input variables (based on physicochemical tests):
 
 11 - alcohol
 
-Output variable (based on sensory data): 12 - quality (score between 0 and 10)
+Output variable (based on sensory data): 
+
+12 - quality (score between 0 and 10)
