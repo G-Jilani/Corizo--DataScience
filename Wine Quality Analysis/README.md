@@ -7,7 +7,7 @@ Instructions These datasets can be viewed as classi<cation or regression tasks. 
 Two datasets were combined and few values were randomly removed. Attribute Information:
 Input variables (based on physicochemical tests):
 
-1 - <xed acidity
+1 - fixed acidity
 
 2 - volatile acidity 
 
